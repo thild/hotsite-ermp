@@ -3,7 +3,9 @@
 ## Como desenvolver
 
 Instale o node e npm
+    
     npm install
+    
     gulp dev
 
 
