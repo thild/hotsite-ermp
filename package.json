@@ -1,8 +1,8 @@
 {
-    "title": "Academia Vigor",
-    "name": "academia_vigor",
+    "title": "Maratona de Programação",
+    "name": "maratona_programacao",
     "version": "1.0.0",
-    "description": "Academia Vigor.",
+    "description": "Maratona de Programação.",
     "keywords": [
         "css",
         "sass",
@@ -11,17 +11,17 @@
         "theme",
         "template"
     ],
-    "homepage": "http://www.academiavigor.com.br",
+    "homepage": "http://maratona.decomp.unicentro.br",
     "bugs": {
-        "url": "https://bitbucket.org/tony_hild/academiavigor",
-        "email": "tony_hild@yahoo.com"
+        "url": "https://github.com/thild/hotsite-ermp",
+        "email": "thild@unicentro.br"
     },
     "license": "Copyright",
     "author": "Tony Alexander Hild",
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "https://tony_hild@bitbucket.org/tony_hild/academiavigor.git"
+        "url": "https://github.com/thild/hotsite-ermp.git"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-alpha.6",

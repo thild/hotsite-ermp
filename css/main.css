@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Academia Vigor v1.0.0 (http://www.academiavigor.com.br)
+ * Start Bootstrap - Maratona de Programação v1.0.0 (http://maratona.decomp.unicentro.br)
  * Copyright 2013-2017 Tony Alexander Hild
- * Licensed under Copyright (https://github.com/BlackrockDigital/academia_vigor/blob/master/LICENSE)
+ * Licensed under Copyright (https://github.com/BlackrockDigital/maratona_programacao/blob/master/LICENSE)
  */
 @charset "UTF-8";
 body {
@@ -124,7 +124,10 @@ hr.star-primary:after {
 
 .title {
   text-align: center;
-  font-size: 3em; }
+  font-size: 3em;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  border-bottom: solid 1px rgba(61, 86, 110, 0.3); }
 
 .subtitle {
   text-align: center;
